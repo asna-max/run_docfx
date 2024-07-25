@@ -1,4 +1,4 @@
-##run_docfx
+## run_docfx
 
 This batch script is helpful when you need to share your documentation with others. It automates tasks related to DocFX, a documentation generator for .NET projects.
 Getting Started
