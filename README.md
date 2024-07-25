@@ -7,16 +7,16 @@ Follow these instructions to get a copy of the run_docfx.bat script and use it o
 ### Using the Batch File
 
     Double-click on run_docfx.bat to execute the script. It will:
-        Check if DocFX is installed and install it if not.
-        Add DocFX to the PATH.
-        Generate the PDF if it does not already exist.
-        Serve the site locally using DocFX.
-        Open the documentation in the default web browser at http://localhost:8080.
+        - Check if DocFX is installed and install it if not.
+        - Add DocFX to the PATH.
+        - Generate the PDF if it does not already exist.
+        - Serve the site locally using DocFX.
+        - Open the documentation in the default web browser at http://localhost:8080.
 
 ### Notes
 
-    Ensure you have an active internet connection for the script to download DocFX if it's not already installed.
-    In this batch script, the download link is hard-coded. If you want to use another version, you have to replace it manually.
+    - Ensure you have an active internet connection for the script to download DocFX if it's not already installed.
+    - In this batch script, the download link is hard-coded. If you want to use another version, you have to replace it manually.
 
 ### Contributing
 
