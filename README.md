@@ -8,3 +8,8 @@ Prerequisites
 
     Windows Operating System
     DocFX installed on your machine
+
+
+Contributing
+
+Feel free to fork this repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
